@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="868f8d19-e72d-44d9-b60a-6306d2487d9d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="mmall.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1081,7 +1080,7 @@
       <workItem from="1531732678878" duration="144000" />
       <workItem from="1531732906827" duration="45000" />
       <workItem from="1531788616363" duration="9000" />
-      <workItem from="1531788637879" duration="15523000" />
+      <workItem from="1531788637879" duration="15531000" />
     </task>
     <task id="LOCAL-00001" summary="kerqi commit">
       <created>1531807470903</created>
@@ -1107,11 +1106,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531808551849</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kerqi first commit">
+      <created>1531808792791</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531808792791</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22057000" />
+    <option name="totallyTimeSpent" value="22065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
